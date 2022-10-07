@@ -1,6 +1,6 @@
 # Analysing_Netflix_Movies-2011-2020
 
-* Wee will discover if Netflix’s movies are getting shorter over time or not 
+* We will discover if Netflix’s movies are getting shorter over time or not 
 
 * which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
 
